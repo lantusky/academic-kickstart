@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2019-07-01"
   date_end = ""
-  description = 
-  """
+  description = """
   Focused on research using deep reinforcement learning (DRL) to solve real-world energy & power problems. 
   """
 
@@ -36,8 +35,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-06-05"
   date_end = "2018-05-31"
-  description = 
-  """
+  description = """
   1. Wrote Python scripts to automate multiple SerDes sweep process 
   2. Data queries and manipulations 
   3. Signal measurements and testings
@@ -50,8 +48,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-08-01"
   date_end = "2018-04-31"
-  description = 
-  """
+  description = """
   Teaching EE124-L Electronic Design II
   """
 +++
