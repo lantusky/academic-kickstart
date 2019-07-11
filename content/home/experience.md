@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Machine Learning Engineer"
+  company = "GEIRI North America"
+  company_url = "https://www.geirina.net/"
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2019-07-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = 
+  """
+  Focused on research using deep reinforcement learning (DRL) to solve real-world energy & power problems. 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Co-op Hardware Engineer"
+  company = "Cisco"
+  company_url = "https://www.cisco.com/"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2017-06-05"
+  date_end = "2018-05-31"
+  description = 
+  """
+  1. Wrote Python scripts to automate multiple SerDes sweep process 
+  2. Data queries and manipulations 
+  3. Signal measurements and testings
+  """
 
+[[experience]]
+  title = "Teaching Associate"
+  company = "San Jose State University"
+  company_url = "https://www.sjsu.edu/"
+  location = "California"
+  date_start = "2017-08-01"
+  date_end = "2018-04-31"
+  description = 
+  """
+  Teaching EE124-L Electronic Design II
+  """
 +++
